@@ -1,0 +1,1 @@
+rootProject.name = "virtual-solutions-ticketing-system"
