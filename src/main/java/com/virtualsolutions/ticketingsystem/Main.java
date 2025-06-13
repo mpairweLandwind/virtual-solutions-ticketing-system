@@ -5,7 +5,6 @@ import java.util.Optional;
 import java.util.Scanner;
 
 import com.virtualsolutions.ticketingsystem.controller.CustomerController;
-import com.virtualsolutions.ticketingsystem.controller.TicketController;
 import com.virtualsolutions.ticketingsystem.model.Customer;
 import com.virtualsolutions.ticketingsystem.repository.impl.CustomerRepositoryImpl;
 import com.virtualsolutions.ticketingsystem.service.impl.CustomerServiceImpl;
@@ -20,7 +19,6 @@ import com.virtualsolutions.ticketingsystem.service.impl.CustomerServiceImpl;
 public class  Main {
     
     private final CustomerController customerController;
-    private final TicketController ticketController;
     private final Scanner scanner;
     
     /**
@@ -36,7 +34,6 @@ public class  Main {
         
         // Initialize controllers
         this.customerController = new CustomerController(customerService);
-        this.ticketController = null; // Will be initialized when needed
         this.scanner = new Scanner(System.in);
         
         // Initialize sample data
