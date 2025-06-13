@@ -13,7 +13,7 @@ import java.util.Optional;
  * Controller class for handling ticket-related operations.
  * This class provides methods for creating, reading, updating, and deleting tickets.
  * 
- * @author Pahappa Limited
+ * @author Mpairwe Lauben
  * @version 1.0
  */
 public class TicketController {

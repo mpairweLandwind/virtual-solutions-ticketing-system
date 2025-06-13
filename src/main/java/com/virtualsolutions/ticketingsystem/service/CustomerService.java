@@ -8,7 +8,7 @@ import com.virtualsolutions.ticketingsystem.model.Customer;
 /**
  * Service interface for Customer-related operations.
  * 
- * @author Pahappa Limited
+ * @author Mpairwe Lauben
  * @version 1.0
  */
 public interface CustomerService {

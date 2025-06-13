@@ -9,7 +9,7 @@ import com.virtualsolutions.ticketingsystem.service.CustomerService;
  * Controller class for handling customer-related operations.
  * This class provides methods for creating, reading, updating, and deleting customers.
  * 
- * @author Pahappa Limited
+ * @author Mpairwe Lauben
  * @version 1.0
  */
 public class CustomerController {
