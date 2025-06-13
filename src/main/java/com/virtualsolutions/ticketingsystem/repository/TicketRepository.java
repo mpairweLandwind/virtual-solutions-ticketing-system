@@ -11,7 +11,7 @@ import com.virtualsolutions.ticketingsystem.model.TicketStatus;
 /**
  * Repository interface for Ticket entity operations.
  * 
- * @author Pahappa Limited
+ * @author Mpairwe Lauben
  * @version 1.0
  */
 public interface TicketRepository {
