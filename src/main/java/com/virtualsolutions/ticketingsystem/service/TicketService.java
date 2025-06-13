@@ -12,7 +12,7 @@ import com.virtualsolutions.ticketingsystem.model.TicketStatus;
 /**
  * Service interface for Ticket-related operations.
  * 
- * @author Pahappa Limited
+ * @author Mpairwe Lauben
  * @version 1.0
  */
 public interface TicketService {
